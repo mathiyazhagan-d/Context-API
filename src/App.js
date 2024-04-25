@@ -18,7 +18,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/1/3.jpg",
-      "quantity": 1 
+      "quantity": 0 
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/2/3.jpg",
-      "quantity": 1 
+      "quantity": 0 
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/3/1.jpg",
-      "quantity": 1 
+      "quantity": 0 
     },
     {
       "id": 4,
@@ -60,7 +60,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/4/3.jpg",
-      "quantity": 1 
+      "quantity": 0 
     },
     {
       "id": 5,
@@ -74,7 +74,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/5/3.jpg",
-      "quantity": 1 
+      "quantity": 0 
     }
   ]);
 
