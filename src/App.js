@@ -32,7 +32,7 @@ function App() {
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "image": "https://i.dummyjson.com/data/products/2/3.jpg",
-      "quantity": 0 
+      "quantity": 1 
     },
     {
       "id": 3,
