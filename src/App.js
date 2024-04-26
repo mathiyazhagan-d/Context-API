@@ -17,7 +17,7 @@ function App() {
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-      "image": "https://i.dummyjson.com/data/products/1/3.jpg",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGlUyuFnGjbTsandVB0Lj5zoO3xTypor4ZLgcMq3GWipS-wUO034iDryKv3neXOWgTKHk4x2PryqZO9rnwemXgxVbJnvdiVwe4o9DTg-1Bvp2tjEU5G0x9-g&usqp=CAE",
       "quantity": 0 
     },
     {
@@ -31,7 +31,7 @@ function App() {
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-      "image": "https://i.dummyjson.com/data/products/2/3.jpg",
+      "image": "https://vlebazaar.in/image/cache/catalog/apple%204s/apple-iphone-x%20white-550x550h.jpeg.webp",
       "quantity": 1 
     },
     {
@@ -45,7 +45,7 @@ function App() {
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "image": "https://i.dummyjson.com/data/products/3/1.jpg",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeNLR03wPR3L1fKjXAp8e39tUWyxl_JJimMwtuUTwx33z6gUGG492FaQ9ruICKdMNAIKnD9KqHhcnn2XsSkGyCRr0Lsm31yhzku3udQdfDrRj9LXS6vDmjjA&usqp=CAE",
       "quantity": 0 
     },
     {
@@ -59,7 +59,7 @@ function App() {
       "brand": "OPPO",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      "image": "https://i.dummyjson.com/data/products/4/3.jpg",
+      "image": "https://assets.sangeethamobiles.com/product_img/4041_4.png",
       "quantity": 0 
     },
     {
@@ -73,7 +73,7 @@ function App() {
       "brand": "Huawei",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-      "image": "https://i.dummyjson.com/data/products/5/3.jpg",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXKgqTm3yuhp7t-HaxMZEyT_i3ZnS812bguOm3TAlowgTnnaQ56qTPXULScjB23m1B5lWsaLEmLg1ao8EYzOeL-FBBa7PxY7n58ObsVQc6SSltjdysPNl47Q&usqp=CAE",
       "quantity": 0 
     }
   ]);
